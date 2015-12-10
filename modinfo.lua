@@ -1,8 +1,8 @@
 return {
-  name='Robot Defense',
-  description='The New Generation Of War',
+  name='Flea spam',
+  description='Melt your CPU',
   shortname='TA',
-  version='$VERSION',
+  version='v3.0',
   mutator='',
   game='',
   shortGame='TA',
